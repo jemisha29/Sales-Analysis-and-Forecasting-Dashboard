@@ -3,14 +3,14 @@ This project showcases a dynamic Power BI dashboard that analyzes over two years
 
 ## Dataset Structure
 The dataset for this project was organized into Excel data warehouse that store sales data information.
-  - [Sales data :]() Contain information about orders date, item type, unit price, cost price, region etc.
+  - [Sales data :](https://github.com/jemisha29/Sales-Analysis-and-Forecasting-Dashboard/blob/main/SuperStore%20Sales%20DataSet.xlsx) Contain information about orders date, Product type, Sales, Profit, region etc.
 
 ## Tools
 
   * **Excel** - Data Cleaning & Data Analysis
   * **PowerBI** - Creating reports
 
-  Power BI Dashboard : [here](https://github.com/jemisha29/Amazon-Sales-data-Analysis/blob/main/Amazon%20Sales%20dashboard.pbix)
+  Power BI Dashboard : [here](https://github.com/jemisha29/Sales-Analysis-and-Forecasting-Dashboard/blob/main/Sales%20analysis%20and%20forcasting.pbix)
   
 ## Analysis 
 ### KPI's

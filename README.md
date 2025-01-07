@@ -32,13 +32,12 @@ The dataset for this project was organized into Excel data warehouse that store 
   7. Sales Forecast (15 Days)
   8. Profit by City
 
-### Dashboard Link : [https://app.powerbi.com/groups/me/reports/84dda7c5-5a02-41a6-a33b-70278be6c204/64effd4ec6df62bfc77c?experience=power-bi]
 
+Sales Trend Report
+![analysis](https://github.com/user-attachments/assets/3acd52ea-9883-4945-b2db-dbde8c580f9d)
 
-![all](https://github.com/user-attachments/assets/ef2fdc96-02f2-4568-b8f5-7389fdb0e8ce)
-
-Product Sales Trend Report
-![sales trend](https://github.com/user-attachments/assets/92d3ae17-c5d8-49da-97eb-29ecd0537d36)
+Sales Forecasting Report
+![forcasting](https://github.com/user-attachments/assets/d59c75e3-9182-409a-ab81-2e314972dba5)
 
 ## Insights
 These insights are based on data that includes all years. If a specific year is selected, the results will adjust to reflect the data relevant to the selected year.

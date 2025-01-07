@@ -3,7 +3,7 @@ This project showcases a dynamic Power BI dashboard that analyzes over two years
 
 ## Dataset Structure
 The dataset for this project was organized into Excel data warehouse that store sales data information.
-  - [Sales data :](https://github.com/jemisha29/Amazon-Sales-data-Analysis/blob/main/Amazon%20Sales%20data.csv) Contain information about orders date, item type, unit price, cost price, region etc.
+  - [Sales data :]() Contain information about orders date, item type, unit price, cost price, region etc.
 
 ## Tools
 
